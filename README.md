@@ -7,5 +7,11 @@ Flask offers suggestions, but doesn't enforce any dependencies or project layout
 ## What is a web Framework
 A web framework is a collection of libraries which helps the web developers to create different web applications.
 
+## What is API
+An application programming interface (API) is a computing interface exposed by a particular software program, library, operating system or internet service, to allow third parties to use the functionality of that software application.
+
 # Project Details 
 # Project Name :- Create a calculater using Flask
+I create a simple calculater(add,sub,mul,div) using flask and also using Postman
+### 1. Postman 
+It a application to create a test of API.
