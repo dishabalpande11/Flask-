@@ -15,3 +15,7 @@ An application programming interface (API) is a computing interface exposed by a
 I create a simple calculater(add,sub,mul,div) using flask and also using Postman
 ### 1. Postman 
 It a application to create a test of API.
+### 2. Result 
+![Flask_output1](https://user-images.githubusercontent.com/107383468/175050291-5aad86fc-5487-4c28-aaa3-b02f76b86628.jpg)
+![Flask_output2](https://user-images.githubusercontent.com/107383468/175050321-fe10d4b8-ae99-400e-96c4-bf817913ec7d.jpg)
+![Flask_output3](https://user-images.githubusercontent.com/107383468/175050339-2a3378dc-b1d8-486f-abb7-042b6977afe1.jpg)
