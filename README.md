@@ -6,3 +6,6 @@ Flask offers suggestions, but doesn't enforce any dependencies or project layout
 
 ## What is a web Framework
 A web framework is a collection of libraries which helps the web developers to create different web applications.
+
+# Project Details 
+# Project Name :- Create a calculater using Flask
